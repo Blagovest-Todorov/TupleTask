@@ -5,7 +5,7 @@ namespace Tuple
     public class StartUp
     {
         static void Main(string[] args)
-        {  //Tuople is class, object, collection whick holds elements/objects of different type ! 
+        {  //Tuple is a class, a object, a collection which holds elements/objects of different type ! 
             var personInfo = Console.ReadLine()
                 .Split(" ", StringSplitOptions.RemoveEmptyEntries);
 
